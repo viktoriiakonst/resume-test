@@ -1,0 +1,186 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(81, 106, 243);
+    padding: 40px;
+}
+
+/* wrapper */
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: white;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+/* Main content */
+.main-content {
+    padding: 88px;
+}
+
+/* About me */
+.about-me{
+ margin-bottom: 64px;
+}
+.my-name{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin: 16px 0 16px 0;
+}
+.my-prof {
+    margin-bottom: 18px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+.motovation{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    width: 525px;
+}
+
+/* Projects */
+.my-projects{ 
+    margin-bottom: 64px;
+}
+
+.project-item{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+}
+.project-list{
+    padding: 0 0 0 16px;
+    margin: 0;
+}
+.language{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+.project-link{
+    color: #005FFF;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+h3{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin: 0 0 8px 0;
+}
+h4{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 12px 0 12px 0;
+}
+
+
+.experience-container{
+    margin-bottom: 64px;
+}
+.work-container{
+    margin-bottom: 16px;
+}
+.work{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #6D9BF5;
+}
+.period{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+.line{
+    color:black;
+}
+.respons{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    padding: 0 40px 0 16px;
+    margin: 0;
+}
+.uni{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #6D9BF5;
+}
+
+/* Sidebar */
+
+.sidebar {
+    width: 370px;
+    background-color:rgb(245, 222, 120);
+}
+
+.my-photo {
+    margin: 40px 40px 0 40px;
+}
+
+.contacts-container,
+.tech-skills-container,
+.soft-skils-container {
+    margin: 48px 0 0 40px ;
+}
+.sidebar-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 8px;
+}
+
+.contact-type{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 8px;
+}
+
+.contac-item{
+    margin: 0;
+}
+
+.contact-number{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: black;
+}
+.contact-email{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgb(81, 106, 243);
+}
+
+.skils-list{
+    margin: 0px;
+    padding: 0 0 0 16px;
+}
+
+.skils-list-item{
+    color: rgb(81, 106, 243);
+}
+
+.skil-list-txt{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color:black;
+}
